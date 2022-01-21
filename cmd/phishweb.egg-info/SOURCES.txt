@@ -1,0 +1,8 @@
+phishweb.py
+setup.py
+phishweb.egg-info/PKG-INFO
+phishweb.egg-info/SOURCES.txt
+phishweb.egg-info/dependency_links.txt
+phishweb.egg-info/entry_points.txt
+phishweb.egg-info/requires.txt
+phishweb.egg-info/top_level.txt

@@ -1,5 +1,7 @@
 # phishWEB
-A command line tool for phishing detection.
+## training
+ https://www.kaggle.com/pushpak25/classification-phishing
+## Command line tool
 ```
  _____  _     _     _ __          ________ ____  
 |  __ \| |   (_)   | |\ \        / /  ____|  _ \ 
